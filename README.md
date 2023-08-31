@@ -1,4 +1,4 @@
-# movieapp [![Paypal Donate](https://img.shields.io/badge/paypal-donate-green.svg?style=flat)](https://www.paypal.me/junedomingo)
+# movieapp - React Native
 Discover Movies and TV shows
 
 
